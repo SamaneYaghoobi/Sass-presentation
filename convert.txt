@@ -1,0 +1,14 @@
+
+تبدیل SASS  به SCSS  :
+
+فایل های SASS می توانند  به  SCSS  و همین طور برعکس ، به هم تبدیل شوند.
+
+تبدیل SASS به SCSS :
+
+1
+sass-convert style.sass style.scss$
+تبدیل SCSS به SASS :
+
+1
+sass-convert style.scss style.sass$
+

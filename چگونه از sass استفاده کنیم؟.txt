@@ -1,0 +1,5 @@
+sass input.scss output.css در خط فرمان استفاده کنید. برای مشاهده فایل ها و پوشه ها میتوانید از دستور –watch استفاده کنید. به دستور زیر نگاه کنید.
+
+sass --watch app/sass:public/stylesheets
+
+
